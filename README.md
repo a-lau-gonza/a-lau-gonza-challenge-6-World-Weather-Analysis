@@ -1,1 +1,1 @@
-# a-lau-gonza-challenge-6-World-Weather-Analysis
+# challenge-6-World-Weather-Analysis
